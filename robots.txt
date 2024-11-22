@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xplanthris.github.io/fuckthebox/sitemap.xml
